@@ -1,7 +1,13 @@
-# CSGO-Server-Cheatsheet  
+# CSGO Managing Server Cheatsheet  
 Cheatsheet of most commonly used commands in private servers  
-  
-![csgo logo banner](assets/csgo_logo.png)  
+
+<img src="assets/csgo_logo.png"
+     alt="Markdown Monster icon"
+     style="height:auto;width:500px;" />
+
+<!-- ![csgo logo banner](assets/csgo_logo.png)   -->
+
+<br><br>  
 
 #### # Commands for Managing Matches  (Server Side)
 
