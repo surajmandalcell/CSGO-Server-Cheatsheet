@@ -20,6 +20,7 @@ Cheatsheet of most commonly used commands in private servers
 | Set round time to 60 secs	| sm_rcon mp_roundtime 60 |
 | Restart game in 0 seconds| sm_rcon mp_restartgame 0 |
 | Autobalance teams| sm_rcon mp_autoteambalance 0 |
+| Show granade trajectory | sm_rcon sv_grenade_trajectory 1 |
 | Headshot only | sm_rcon mp_damage_headshot_only 1 |
 | Change map to workshop id  	| sm_rcon host_workshop_map map_id|
 | Teammates will be enemies | sm_rcon mp_teammates_are_enemies 1 |
